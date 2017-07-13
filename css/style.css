@@ -183,6 +183,10 @@ a:active, a:visited, a:focus {
 	}
 }
 
+.icon-down-open{
+	color: #fff;
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
 	.footer strong {
 		margin: 3rem 0 2rem;
